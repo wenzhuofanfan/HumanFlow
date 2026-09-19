@@ -12,7 +12,6 @@
   <a href="https://doi.org/10.1145/3811361">
     <img src="https://img.shields.io/badge/Paper-ACM%20TOG-blue" alt="Paper">
   </a>
-  <img src="https://img.shields.io/badge/Code-Coming%20Soon-orange" alt="Code Coming Soon">
   <img src="https://img.shields.io/badge/Framework-PyTorch-red" alt="PyTorch">
   <img src="https://img.shields.io/badge/Backbone-FLUX.1--dev-purple" alt="FLUX.1-dev">
 </p>
